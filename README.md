@@ -2,7 +2,7 @@
 
 **Recommendation: SELL** &nbsp;|&nbsp; DCF Value: **€490** &nbsp;|&nbsp; Current Price: **€1,204** &nbsp;|&nbsp; Implied Downside: **−59%**
 
-A bottom-up DCF valuation of ASML Holding NV (ASML:NA), the Dutch semiconductor equipment manufacturer that holds a global monopoly on Extreme Ultraviolet (EUV) lithography systems. This project builds a 10-year free cash flow model, a WACC calculation, a comparable company analysis against three semiconductor equipment peers, and a sensitivity analysis across 88 WACC/terminal growth scenarios.
+DCF valuation of ASML Holding NV (ASML:NA), the Dutch semiconductor equipment manufacturer that holds a global monopoly on Extreme Ultraviolet (EUV) lithography systems. This project builds a 10-year free cash flow model, a WACC calculation, a comparable company analysis against three semiconductor equipment peers, and a sensitivity analysis across 88 WACC/terminal growth scenarios.
 
 ---
 
