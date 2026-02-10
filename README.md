@@ -29,9 +29,9 @@ Despite ASML's exceptional business quality and structural monopoly in EUV, >50%
 ```
 ASML-Valuation-Analysis/
 ├── models/
-│   └── ASML_DCF_Model.xlsx        # Full 8-tab Excel model
+│   └── ASML_DCF_Model.xlsx        -> ASML Excel model
 ├── notebooks/
-│   └── generate_charts.py         # Reads Excel, produces all charts
+│   └── generate_charts.py         -> Produces charts
 ├── outputs/
 │   ├── charts/
 │   │   ├── 01_revenue_growth.png
@@ -151,7 +151,6 @@ cd notebooks
 python generate_charts.py
 ```
 
-The script reads `models/ASML_DCF_Model.xlsx` directly — no hardcoded data — and writes five PNG files to `outputs/charts/`.
 
 ---
 
